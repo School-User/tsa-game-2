@@ -18,6 +18,7 @@ window.Levels = window.Levels || [];
       choices: [ { text: 'Close the channel.', setFlag: 'contacted' } ] } } };
 
   window.Levels[2] = { id: 3, title: 'Beacon Tower',
+    image: 'assets/level3.webp', imageAlt: 'Illustration: a glass beacon tower room with two dials and a glowing tuning screen.',
     intro: 'A glass room at the top of Harbor Nine. A single dial pair, frequency and phase, must be tuned to cut through the nebula static before the beacon can reach all three ships.',
     hotspots: [
       { id: 'look3', label: 'Study the static', text: 'It is not random. Under the hiss there is a faint steady tone, if you can find the right setting.', xp: 5 },

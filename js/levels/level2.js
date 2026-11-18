@@ -15,6 +15,7 @@ window.Levels = window.Levels || [];
     done: { speaker: 'Pip (dock robot)', text: 'Manifest unlocked. Crate seven is on the heavy side. Pip thinks.' } } };
 
   window.Levels[1] = { id: 2, title: 'Cargo Bay',
+    image: 'assets/level2.webp', imageAlt: 'Illustration: nine identical crates in rows and a large brass balance scale, with a small friendly robot.',
     intro: 'Rows of identical grey crates. One of the nine is far heavier than the rest, and a rattled dock robot rolls back and forth in front of the manifest terminal. The airlock to the tower waits behind a lifting rig that will only lift the heavy crate.',
     hotspots: [
       { id: 'look2', label: 'Look at the crates', text: 'Nine crates, all the same size and colour. Only a balance scale will tell them apart.', xp: 5 },

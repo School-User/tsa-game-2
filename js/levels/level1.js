@@ -14,6 +14,7 @@ window.Levels = window.Levels || [];
     end: { speaker: 'Pilot Tamsin (radio)', text: 'Holding position. Holding... holding.' } } };
 
   window.Levels[0] = { id: 1, title: 'Docking Ring',
+    image: 'assets/level1.webp', imageAlt: 'Illustration: four glowing round pads, a triangle, a square, a diamond and a star, on a control desk before a nebula window.',
     intro: 'Static hisses on every channel. The docking ring around Harbor Nine is dark, and four coloured pads on the control desk wait for a pattern. Outside the window, a small ship turns slowly in the nebula light.',
     hotspots: [
       { id: 'look1', label: 'Look out the window', text: 'Three ships hover at the edge of the nebula, each a faint dot of running lights. Nobody is armed. Everybody is tired.', xp: 5 },

@@ -1,2 +1,3 @@
 - 0.000000 | Claude Code | engine copy, Quiet Harbor story, levels, meta, e2e playthrough, scales fix
 - 0.000000 | Freebuff (DeepSeek) | js/puzzles/memory.js, scales.js, tuner.js
+- 2026-11-17 | Codex (GPT-6.2-Sol, image generation) | AI-generated illustrations assets/title, level1-3 (.webp); decorative; disclose as AI-generated
